@@ -25,3 +25,5 @@ Imports:
     tibble
 Config/testthat/edition: 3
 VignetteBuilder: knitr
+URL: https://github.com/Santinule/testpackage
+BugReports: https://github.com/Santinule/testpackage/issues
